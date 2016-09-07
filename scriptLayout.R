@@ -8,6 +8,16 @@
 
 rm(list = ls()) # clear workspace
 
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# set your working directory
+# examples:
+# Mac OSX = setwd("/Users/jdoe/Desktop")
+# Windows, Personal = setwd("C:/Users/jdoe/Desktop")
+# Windows, SLU Labs = setwd("E:/Users/jdoe/Desktop")
+
+setwd()
+
 # ==========================================================================
 
 # file name - scriptLayout.R
@@ -39,4 +49,3 @@ rm(list = ls()) # clear workspace
 # ==========================================================================
 
 # exit
-
