@@ -2,9 +2,12 @@
 
 ### Repository Contents
 This repository contains files for:
-  - fall-2016-seminar-01.R
+  - scriptLayout.R - script template for you to use
+  - seminar-01.R - code replication from seminar
+  - seminar-01.pdf - copy of Chris's slides
   - LICENSE.md
   - README.md
+  - .gitignore
 
 ### Fall 2016 - Plots & Figures in `R`
 This is the second edition of the SLU Data Science Seminar (DSS). This semester is focused on using `R` to produce plots and figures of your data. We'll pay particular attention to a well-known graphics package named [`ggplot2`](https://en.wikipedia.org/wiki/Ggplot2). Along the way, we'll also provide you with an overview of the nuts and bolts of `R`.

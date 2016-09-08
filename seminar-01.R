@@ -34,7 +34,8 @@ setwd("/Users/prenercg/Desktop")
 
 # ==========================================================================
 
-# full description - this file contains the code for
+# full description - this file contains the code for replicating the
+# examples used in the first seminar session.
 
 # updates - none
 
